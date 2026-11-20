@@ -11,8 +11,12 @@ To design a basic mobile and web layout using Figma by applying UI/UX design pri
 5. Arrange UI elements using Gestalt principles.
 6. Add navigation, product cards and interactive buttons.
 7. Check the alignment, usability and save the final design.
+
 ## Output:
 
+<img width="1917" height="1073" alt="image" src="https://github.com/user-attachments/assets/a65fa00f-9ccd-40dc-9de5-6d0126ce38cd" />
 
 
 ## Result:
+
+Thus The mobile and web layouts were successfully designed using Figma by applying UI/UX principles.
